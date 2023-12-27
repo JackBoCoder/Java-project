@@ -12,3 +12,12 @@ This is a Java project that ...
 
 1. Clone the repository.
 2. Run the following commands:
+
+3. ...
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- ...
+
